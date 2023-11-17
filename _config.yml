@@ -1,6 +1,6 @@
 title: Yaniv Ferszt
-description:
-  Test description from _config.yml
+#description:
+#  Test description from _config.yml
 github_username:  yferszt
 github: [metadata]
 repository: 'yferszt/yferszt.github.io'
