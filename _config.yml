@@ -10,8 +10,6 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jemoji
-  - jekyll-spaceship
-  - jekyll-gist
 
 header_pages:
   - index.md
@@ -24,8 +22,3 @@ minima:
 
 author: Yaniv Ferszt
 
-jekyll-spaceship:
-  mermaid-processor:
-    mode: 'pre-fetch'
-    config:
-      theme: 'base'
