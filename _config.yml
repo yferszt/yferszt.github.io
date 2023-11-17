@@ -1,0 +1,31 @@
+title: Yaniv Ferszt
+description:
+  This my personal page, where I post about things that I do and find interesting.
+github_username:  yferszt
+github: [metadata]
+repository: 'yferszt/yferszt.github.io'
+
+remote_theme: jekyll/minima@v2.5.1
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jemoji
+  - jekyll-spaceship
+  - jekyll-gist
+
+header_pages:
+  - index.md
+  - about.md
+
+minima:
+  skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/yferszt" }
+
+author: Yaniv Ferszt
+
+jekyll-spaceship:
+  mermaid-processor:
+    mode: 'pre-fetch'
+    config:
+      theme: 'base'
